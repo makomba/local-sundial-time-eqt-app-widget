@@ -14,4 +14,4 @@ Calculating:
 - calculate the difference to UTC with the longitude (1 hour = 15°).
 - calculate the local sundial time with the calculated values.
 
-Help needed. I can not program apps.
+Help needed. I can not program apps widgets.
