@@ -1,7 +1,7 @@
 # local-sundial-time-eqt-app-widget
-A local sundial time equation of time App Widget for mobile devices.
+A local sundial time equation of time clock App Widget for mobile devices.
 
-Display two times with a widget on the home screen in mobile devices.
+Display a clock with two times with a widget on the home screen in mobile devices.
 
 Display:
 First time in digits: clock with the device time (HH:MM:SS)
